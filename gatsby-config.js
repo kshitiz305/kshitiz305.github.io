@@ -2,6 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
+    pathPrefix:'/kshitiz305.github.io',
     title: 'Brittany Chiang',
     description:
       'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
